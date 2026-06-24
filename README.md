@@ -63,7 +63,7 @@ enabling better decision-making through data visualization and analysis.
 📁 Repository Structure
 
 Customer-Shopping-Behavior-Analysis
-│
+
 ├── customer_shopping_behavior.csv
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
